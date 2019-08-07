@@ -6,7 +6,7 @@ números de telefones que existem no Facebook
   
 ![Na imagem acima temos um aviso falando se determinado número de telefone existe ou não dentro da plataforma do Facebook](https://i.imgur.com/CtOnY4y.png)
  
-Agora, um exercício mental; imagina você acordar um dia, tomar seu café, e ao ligar o noticiário se deparar com milhões de reclamações de pessoas sobre o Facebook ter enviado SMS para recuperar sua conta?
+**Agora, um exercício mental; imagina você acordar um dia, tomar seu café, e ao ligar o noticiário se deparar com milhões de reclamações de pessoas sobre o Facebook ter enviado SMS para recuperar sua conta? E o pior; muitas delas foram realmente acessadas.**
   
 Pois é disso que vou tratar nesse script!
   
