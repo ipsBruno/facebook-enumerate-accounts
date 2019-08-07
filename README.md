@@ -4,8 +4,8 @@
 Este projeto tem como objetivo estudar uma possível vulnerabilidade do Facebook. Com ele vamos verificar em massa e-mails e 
 números de telefones que existem no Facebook
   
-![enter image description here](https://i.imgur.com/CtOnY4y.png)
-  
+![Na imagem acima temos um aviso falando se determinado número de telefone existe ou não dentro da plataforma do Facebook](https://i.imgur.com/CtOnY4y.png)
+ 
 Agora, um exercício mental; imagina você acordar um dia, tomar seu café, e ao ligar o noticiário se deparar com milhões de reclamações de pessoas sobre o Facebook ter enviado SMS para recuperar sua conta?
   
 Pois é disso que vou tratar nesse script!
